@@ -1,4 +1,4 @@
-package brewery
+package brewery.api
 
 class BeerType {
 
