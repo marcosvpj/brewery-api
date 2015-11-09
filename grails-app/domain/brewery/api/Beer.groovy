@@ -1,4 +1,4 @@
-package brewery
+package brewery.api
 
 class Beer {
 
@@ -7,4 +7,6 @@ class Beer {
 
     static constraints = {
     }
+
+    static static mappedBy = [type: "name"]
 }
